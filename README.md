@@ -1,2 +1,5 @@
 # read
 one
+
+
+A = int 
